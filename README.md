@@ -1,6 +1,6 @@
-<!-- Trungquandev -->
+<!-- Thanhhoa214 -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="Click to see the source" />
+  <img src="svg/thanhhoa214.svg" width="1200" alt="Click to see the source" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -97,4 +97,3 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
 </div>
-
