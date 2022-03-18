@@ -26,6 +26,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Gitlab-282C34?logo=Gitlab&logoColor=F05032" alt="Gitlab logo" title="Gitlab" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Github-000000?logo=Github&logoColor=ffffff" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -62,13 +64,14 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="thanhhoa214">
+  <a href="#" title="Hoa Nguyen (Rin)">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhoa214&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="thanhhoa214">
+  <a href="#" title="Hoa Nguyen (Rin)">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thanhhoa214&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
+<br>
 
 <br>
 
