@@ -22,7 +22,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-ffffff?logo=bootstrap&logoColor=282C34" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=Apollo%20GraphQL&logoColor=ffffff" alt="Apollo logo" title="Apollo" height="25" /></span>
 &nbsp;
