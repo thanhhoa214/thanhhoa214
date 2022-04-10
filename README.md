@@ -20,23 +20,15 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=ffffff" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/macOS-282C34?logo=apple&logoColor=ffffff" alt="macOS logo" title="macOS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=Apollo%20GraphQL&logoColor=ffffff" alt="Apollo logo" title="Apollo" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Gitlab-282C34?logo=Gitlab&logoColor=F05032" alt="Gitlab logo" title="Gitlab" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Github-000000?logo=Github&logoColor=ffffff" alt="Github logo" title="Github" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=Apollo%20GraphQL&logoColor=ffffff" alt="Apollo logo" title="Apollo" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=F05032" alt="Gitlab logo" title="Gitlab" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
@@ -53,9 +45,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=ffffff" alt="Jira logo" title="Jira" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/macOS-282C34?logo=apple&logoColor=ffffff" alt="macOS logo" title="macOS" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Trello-0052CC?logo=Trello&logoColor=ffffff" alt="Trello logo" title="Trello" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/macOS-282C34?logo=apple&logoColor=ffffff" alt="macOS logo" title="macOS" height="25" /></span>
 &nbsp;
 
 <br>
