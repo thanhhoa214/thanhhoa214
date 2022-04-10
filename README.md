@@ -20,17 +20,15 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=ffffff" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bootstrap-ffffff?logo=bootstrap&logoColor=282C34" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=Apollo%20GraphQL&logoColor=ffffff" alt="Apollo logo" title="Apollo" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=F05032" alt="Gitlab logo" title="Gitlab" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=000000" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
@@ -59,7 +57,7 @@
 <br>
 <div align=center>
   <a href="#" title="Hoa Nguyen (Rin)">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhoa214&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhoa214&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Hoa Nguyen (Rin)">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=thanhhoa214&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
