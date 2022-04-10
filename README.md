@@ -26,7 +26,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=Apollo%20GraphQL&logoColor=ffffff" alt="Apollo logo" title="Apollo" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=000000" alt="Git logo" title="Git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=ffffff" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
