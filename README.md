@@ -14,19 +14,19 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=ffffff&link=https://ionic.io" alt="Ionic logo" title="Ionic" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=ffffff" alt="Git logo" title="Git" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=000000" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=ffffff" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=Apollo%20GraphQL&logoColor=ffffff" alt="Apollo logo" title="Apollo" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=ffffff" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
