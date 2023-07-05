@@ -94,7 +94,7 @@
   <a href="https://t.me/thanhhoa214" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/sent.png"   title="Ping my Telegram" alt="thanhhoa214-telegram" />
   </a>
-  <a href="mailto:thanhthanhhoa123@gmail.com" target="blank">
+  <a href="mailto:hoanguyen.rin@gmail.com" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png"   title="Send an email" alt="thanhhoa214-email" />
   </a>
 </div>
